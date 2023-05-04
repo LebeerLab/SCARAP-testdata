@@ -1,0 +1,1 @@
+../../data/testdata/faas/GCF_000764285.1.faa.gz
