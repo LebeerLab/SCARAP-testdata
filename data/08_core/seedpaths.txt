@@ -1,0 +1,4 @@
+testdata/data/01_pan/faas/GCF_000762955.1.faa.gz
+testdata/data/01_pan/faas/GCF_000765455.1.faa.gz
+testdata/data/01_pan/faas/GCF_000762245.1.faa.gz
+testdata/data/01_pan/faas/GCF_000764285.1.faa.gz
